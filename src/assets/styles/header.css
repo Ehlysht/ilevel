@@ -1,0 +1,13 @@
+.header{
+    padding: 50px 0;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+}
+.nav-list{
+    display: flex;
+}
+.nav-item{
+    margin-right: 20px;
+}
